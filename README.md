@@ -4,8 +4,8 @@ PHP Class to work ZkTeco C3-100/C3-200/C3-400 with pyzkaccess python plugins.
 Steps:
 
 1. First install Python in the System (python >= 3.5) 
-2. Install PyzkAccess  // Documentation: https://bdragon300.github.io/pyzkaccess/
-   ```pip install pyzkaccess```
+2. Install PyzkAccess 
+   ```pip install pyzkaccess```  // Documentation: https://bdragon300.github.io/pyzkaccess/
 4. Use the given PHP class file.
 
 Helping Files:
