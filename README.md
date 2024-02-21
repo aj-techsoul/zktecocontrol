@@ -5,8 +5,8 @@ Steps:
 
 1. First install Python in the System (python >= 3.5) 
 2. Install PyzkAccess  // Documentation: https://bdragon300.github.io/pyzkaccess/
-```pip install pyzkaccess```
-3. Use the given PHP class file.
+   ```pip install pyzkaccess```
+4. Use the given PHP class file.
 
 Helping Files:
 1. Incase your Python is not global installed then a batch file added, you can use that to make it global
